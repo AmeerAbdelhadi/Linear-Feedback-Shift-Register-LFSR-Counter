@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Oct 07 23:28:47 2012
+Quartus II 32-bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Full Version
+Revision Name : lfsr_test
+Top-level Entity Name : lfsr_test
+Family : Cyclone IV E
+Total logic elements : 126
+    Total combinational functions : 100
+    Dedicated logic registers : 54
+Total registers : 54
+Total pins : 106
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
